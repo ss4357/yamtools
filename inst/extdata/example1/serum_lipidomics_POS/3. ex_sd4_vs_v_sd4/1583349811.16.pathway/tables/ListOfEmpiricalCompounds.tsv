@@ -1,0 +1,38 @@
+EID	massfeature_rows	str_row_ion	compounds	compound_names
+E5	row4;row5	row4_M+H2O+H[1+];row5_M+H[1+]	CE4980	Prostaglandin PGE2 glyceryl ester
+E7	row205	row205_M+Na[1+]	C01582;C00159;C00795;C13747;C02336;C00221;C00095;CE5541;C00984;C00293;C00247;C00267;C00124;C00962;C07480;C00031;C00137;C00936;C00738	Galactose$D-Mannose; Mannose; Seminose; Carubinose$D-Tagatose; lyxo-Hexulose$1,7-Dimethylxanthine; Paraxanthine$beta-D-Fructose; beta-Fruit sugar; beta-D-arabino-Hexulose; beta-Levulose; Fructose$beta-D-Glucose$D-Fructose; Levulose; Fruit sugar; D-arabino-Hexulose$adrenochrome o-semiquinone$alpha-D-Galactose$Glucose$L-Sorbose; L-xylo-Hexulose$alpha-D-Glucose$D-Galactose$beta-D-Galactose$$D-Glucose; Grape sugar; Dextrose$myo-Inositol; D-myo-Inositol; 1D-myo-Inositol; L-myo-Inositol; 1L-myo-Inositol; meso-Inositol; Inositol; Dambose; Cyclohexitol; Meat sugar; Bios I$$D-Hexose
+E9	row571	row571_M+Na[1+]	dlnlcgcrn	dihomo-gamma-linolenyl carnitine
+E13	row257;row610	row257_M+H[1+];row610_M(C13)+H[1+]	C02477	alpha-Tocopherol; Vitamin E
+E14	row643	row643_M+H[1+]	C00322	2-Oxoadipate; 2-Oxoadipic acid
+E28	row88	row88_M+H[1+]	C04317	1-Organyl-2-lyso-sn-glycero-3-phosphocholine; 1-Radyl-2-lyso-sn-glycero-3-phosphocholine; 1-Alkyl-2-lyso-sn-glycero-3-phosphocholine; 1-Alkyl-sn-glycero-3-phosphocholine
+E32	row280	row280_M+Na[1+]	C04598	2-Acetyl-1-alkyl-sn-glycero-3-phosphocholine
+E34	row13	row13_M+H[1+]	C04598	2-Acetyl-1-alkyl-sn-glycero-3-phosphocholine
+E37	row203;row327	row203_M+Na[1+];row327_M+H[1+]	C00791	
+E40	row313	row313_M-H2O+H[1+]	clpndcrn;dcsptn1crn	clupanodonyl carnitine$docosa-4,7,10,13,16-pentaenoyl carnitine
+E54	row643	row643_M-H2O+H[1+]	C05394;C00198;C01040	3-Keto-beta-D-galactose$D-Glucono-1,5-lactone; Gluconic lactone; Gluconic acid lactone; 1,5-Gluconolactone; delta-Gluconolactone; D-Gluconolactone; Gluconolactone$L-Gulono-1,4-lactone; L-Gulono-gamma-lactone; gamma-Gulonolactone; L-Gulonic acid gamma-lactone; L-Gulonolactone
+E55	row115	row115_M+Na[1+]	c226crn	cervonyl carnitine
+E59	row257	row257_M-H2O+H[1+]	CE5021	
+E71	row35	row35_M-H2O+H[1+]	CE4723	neocasomorphin (1-5)
+E72	row3	row3_M-H2O+H[1+]	C08261	
+E76	row98	row98_M+H[1+]	C00318	L-Carnitine; L-gamma-Trimethyl-beta-hydroxybutyrobetaine; Vitamin BT; 3-Carboxy-2-hydroxy-N,N,N-trimethyl-1-propanaminium hydroxide, inner salt; Levocarnitine; (R)-Carnitine
+E77	row230	row230_M+H[1+]	C06125	Sulfatide; Galactosylceramidesulfate; Cerebroside 3-sulfate
+E79	row30	row30_M+Na[1+]	tmndnccrn	Timnodonyl carnitine
+E89	row35	row35_M+H[1+]	C00486	Bilirubin
+E91	row571	row571_M+H[1+]	c226crn	cervonyl carnitine
+E103	row363;row391;row497;row64	row363_M[1+];row391_M+H[1+];row497_M(C13)+H[1+];row64_M+NaCl[1+]	C00550	Sphingomyelin
+E106	row10	row10_M+H[1+]	C04230	1-Acyl-sn-glycero-3-phosphocholine; 1-Acyl-sn-glycerol-3-phosphocholine; alpha-Acylglycerophosphocholine; 2-Lysolecithin; 2-Lysophosphatidylcholine; 1-Acylglycerophosphocholine
+E109	row257	row257_M+H[1+]	C04814	4beta-Hydroxymethyl-4alpha-methyl-5alpha-cholest-7-en-3beta-ol
+E110	row679	row679_M+Na[1+]	tetpent3crn;tetpent6crn	tetracosapentaenoyl carnitine$tetracosapentaenoyl carnitine
+E113	row235	row235_M+Na[1+]	C00157	Phosphatidylcholine; Lecithin; Phosphatidyl-N-trimethylethanolamine; 1,2-Diacyl-sn-glycero-3-phosphocholine; Choline phosphatide; 3-sn-Phosphatidylcholine
+E114	row406;row601;row649	row406_M+H2O+H[1+];row601_M-HCOOH+H[1+];row649_M+H[1+]	C00079;CE2172	L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid$
+E116	row176	row176_M+H[1+]	lneldccrn;lnlccrn	Linoelaidyl carnitine$Linoleyl carnitine
+E121	row8	row8_M+H[1+]	andrstrnglc;5adtststeroneglc;ahandrostanglc;C11135;C11136	androsterone glucuronide$5alpha-Dihydrotestosterone glucuronide$Etiocholan-3alpha-ol-17-one 3-glucuronide$Androsterone glucuronide; Androsterone 3-glucuronide$Etiocholan-3alpha-ol-17-one 3-glucuronide
+E124	row406;row649	row406_M+H[1+];row649_M-H2O+H[1+]	C00788;C05589	L-Adrenaline; (R)-(-)-Adrenaline; (R)-(-)-Epinephrine; (R)-(-)-Epirenamine; (R)-(-)-Adnephrine; 4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol$L-Normetanephrine
+E126	row365;row569	row365_M-H4O2+H[1+];row569_M+H[1+]	C02712	N-Acetylmethionine
+E128	row601	row601_M-H2O+H[1+]	C01183;C02735;C00483	N,N-Dimethylaniline N-oxide$Phenylethanolamine; 2-Amino-1-phenylethanol$Tyramine; 2-(p-Hydroxyphenyl)ethylamine
+E129	row125	row125_M-H2O+H[1+]	C01189;C03845;CE2315;C03091;C00187	5alpha-Cholest-7-en-3beta-ol; Lathosterol$5alpha-Cholest-8-en-3beta-ol; Zymostenol; Cholestenol$cholesta-8(9)-en-3beta-ol$5beta-Cholestan-3-one; Coprostan-3-one$Cholesterol; Cholest-5-en-3beta-ol
+E135	row211;row246;row38	row211_M+H[1+];row246_M(C13)+H[1+];row38_M+Na[1+]	C00431;C00719;C00183	5-Aminopentanoate; 5-Aminopentanoic acid; 5-Aminovaleric acid$Betaine; Trimethylaminoacetate; Glycine betaine; N,N,N-Trimethylglycine; Trimethylammonioacetate$L-Valine; 2-Amino-3-methylbutyric acid
+E137	row156	row156_M+H[1+]	C04230	1-Acyl-sn-glycero-3-phosphocholine; 1-Acyl-sn-glycerol-3-phosphocholine; alpha-Acylglycerophosphocholine; 2-Lysolecithin; 2-Lysophosphatidylcholine; 1-Acylglycerophosphocholine
+E142	row254	row254_M+Na[1+]	C01921	Glycocholate; Glycocholic acid; 3alpha,7alpha,12alpha-Trihydroxy-5beta-cholan-24-oylglycine
+E144	row597	row597_M+Na[1+]	clpndcrn;dcsptn1crn	clupanodonyl carnitine$docosa-4,7,10,13,16-pentaenoyl carnitine
+E145	row327	row327_M-H2O+H[1+]	C00300	Creatine; alpha-Methylguanidino acetic acid; Methylglycocyamine
