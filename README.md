@@ -10,13 +10,17 @@ consolidate the Mummichog 2 pathway analysis results...
 
 ## Installtion
 
+Install yamtools from github using this code.
+
 ```r
-# install.packages("devtools")
+install.packages("devtools")
 devtools::install_github("ss4357/yamtools")
 ```
 
 
 ## Examples
+
+Use "extdata/example1" to indicate location of data.
 
 ```r
 pathway_dir <- system.file("extdata/example1", package = "yamtools")
@@ -42,3 +46,8 @@ concat_pathways(pathway_dir,
 Since this is a collaborative project, please adhere to the following code formatting conventions:
 * We use the tidyverse style guide (https://style.tidyverse.org/)
 * Please write roxygen2 comments as full sentences, starting with a capital letter and ending with a period. Brevity is preferred (e.g., "Calculates standard deviation" is preferred over "This method calculates and returns a standard deviation of given set of numbers").
+
+
+### Special Thanks
+
+Special thanks to Yaoxiang Li (@lzyacht).
