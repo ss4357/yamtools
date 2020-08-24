@@ -4,9 +4,9 @@
 
 ## About 
 
-Yet Another Metabolomic Toolbox is an online R package able to pre and post process 
-metabolomics raws data and visualize them. And also have some utils to clean and 
-consolidate the Mummichog 2 pathway analysis results...
+Yet Another Metabolomic Toolbox is an online R package that processes
+metabolomics raw data. Data is visualized and pathway analysis is cleaned 
+and consolidated using Mummichog 2 pathway analysis results.
 
 ## Installtion
 
