@@ -23,6 +23,8 @@ devtools::install_github("ss4357/yamtools")
 Use "extdata/example1" to indicate location of data.
 
 ```r
+library(yamtools)
+
 pathway_dir <- system.file("extdata/example1", package = "yamtools")
 pathway_pattern <- "mcg_pathwayanalysis_pathway.xlsx"
 output_dir <- pathway_dir
@@ -39,6 +41,22 @@ concat_pathways(pathway_dir,
 
 
 ```
+
+
+
+Match the oringinal m/z rt from the raw data file
+```r
+library(yamtools)
+
+pathway_dir <- system.file("extdata/example1/serum_lipidomics_NEG/1. r_vs_s/1583349669.51.pathway", package = "yamtools")
+
+pathway_res <- readxl::read_excel(paste0(pathway_dir, "/tables/mcg_pathwayanalysis_pathway.xlsx"))
+pathway_EID <- readr::read_tsv(paste0(pathway_dir, "/tables/ListOfEmpiricalCompounds.tsv"))
+pathway_raw <- readr::read_delim(paste0(pathway_dir, "/tables/userInputData.txt"), delim = "\t")
+
+pathway_res <- match_pathway_ids(pathway_res, pathway_EID, pathway_raw)
+```
+
 
 
 ### Code style
